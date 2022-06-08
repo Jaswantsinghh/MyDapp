@@ -1,0 +1,21 @@
+.Main {
+    display: flex;
+    background-color: rgb(255, 218, 218);
+}
+.Main-right {
+    width: 50%;
+}
+.Main-left {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    font-weight: 900;
+    text-align: center;
+    color: maroon;
+}
+.main-heading {
+    text-align: center;
+    color:rgb(253, 221, 221);
+}

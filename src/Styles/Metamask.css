@@ -1,0 +1,34 @@
+.Meta {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffdfa5;
+    gap: 100px
+  }
+  
+  .Meta-button {
+    background-color: #F89C34;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    padding: 12px 24px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid #8F5A30;
+  }
+  
+  .Meta-button:hover {
+    background-color: #E8821F;
+  }
+  
+  .Meta-note {
+    color: #8F5A30
+  }
+  
+  .Meta-note-bold {
+    color: #393939;
+    font-weight: 900;
+  }
